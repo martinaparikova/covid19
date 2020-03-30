@@ -1,0 +1,6 @@
+json
+requests
+pandas
+wget
+os
+psycopg2
